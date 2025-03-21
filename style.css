@@ -1,0 +1,21 @@
+body{
+    background-color: #305050;
+    color: rgb(17, 39, 22);
+    text-align: center;
+    font-size: 20px;
+    padding: 0 24px;
+}
+
+.texto-um{
+    color: #050401;
+    font-size: 24px;
+}
+
+.paragrafo{
+    color: black;
+    font-size: 20;
+}
+
+.imagem{
+    width: 60%;
+}
